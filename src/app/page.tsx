@@ -35,7 +35,7 @@ export default function Home() {
       </div>
 
       <div className="text-center mb-6">
-        <h1 className="text-4xl font-bold text-[#FFB200]">Sikandar Tahir</h1>
+        <h1 className="text-4xl font-bold text-[#FFB200]">Aliya Manzoor</h1>
         <p className="text-gray-100 mt-2 font-bold text-xl">
           Welcome to my Personal Blog Web. Where I explore web development ideas and share my thoughts.
         </p>
