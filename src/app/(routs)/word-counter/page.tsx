@@ -79,7 +79,7 @@ export default function WordCounter() {
 
                     <div className="flex justify-center space-x-8 bg-[#FFB200] p-3 rounded-lg shadow-lg">
                     <p className="text-2xl font-bold text-black">Check :</p> 
-                        <Link href="https://github.com/SikandarTahir23/Cli-Word-Counter" target="_blank" rel="noopener noreferrer">
+                        <Link href="https://github.com/ZuhiiMalakShah/word-counter-with-Zuhii-MalakShah" target="_blank" rel="noopener noreferrer">
                             <FaGithub className="text-black bg-gray-100 text-3xl hover:text-gray-600 transition-transform duration-200" />
                         </Link>
                     </div>
