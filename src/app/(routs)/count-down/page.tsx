@@ -85,7 +85,7 @@ export default function Count_down() {
 
                         <div className="flex justify-center space-x-8 bg-[#FFB200] p-3 rounded-lg shadow-lg">
                         <p className="text-2xl font-bold text-black">Check :</p> 
-                            <Link href="https://github.com/SikandarTahir23/Cli-Countdown-timer-" target="_blank" rel="noopener noreferrer">
+                            <Link href="https://github.com/ZuhiiMalakShah/word-counter-with-Zuhii-MalakShah" target="_blank" rel="noopener noreferrer">
                                 <FaGithub className="text-black text-3xl bg-gray-100 hover:text-gray-400 transition-colors duration-200 p-2 rounded-md" />
                             </Link>
                         </div>
