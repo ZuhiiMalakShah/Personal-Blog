@@ -22,7 +22,7 @@ export default function Html() {
                 <div className="p-6">
                   <h2 className="flex items-center tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
                     <FaVirus className="mr-2 text-indigo-400" />
-                    Covid-19
+                    Covid-19 by Aliya Manzoor
                   </h2>
                   <h1 className="flex items-center title-font text-2xl font-bold text-[#FFB200] mb-3">
                     <FaVirus className="mr-2 text-[#FFB200]" />
