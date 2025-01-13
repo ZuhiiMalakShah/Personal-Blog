@@ -83,7 +83,7 @@ export default function Todo() {
 
                     <div className="flex justify-center space-x-8 bg-[#FFB200] p-3 rounded-lg shadow-lg">
                     <p className="text-2xl font-bold text-black">Check :</p> 
-                        <Link href="https://github.com/SikandarTahir23/Todos-Cli-Project" target="_blank" rel="noopener noreferrer">
+                        <Link href="https://github.com/ZuhiiMalakShah/Todo-List-Application-04-project" target="_blank" rel="noopener noreferrer">
                             <FaGithub className="text-black text-3xl hover:text-gray-600 bg-gray-100 p-2 rounded-md transition duration-300 ease-in-out" />
                         </Link>
                     </div>
