@@ -87,7 +87,7 @@ export default function AdventureGame() {
               <p className="text-2xl font-bold text-black">Check :</p>
               
               <Link
-                href="https://github.com/SikandarTahir23/Cli-Adventure-Game"
+                href="https://github.com/ZuhiiMalakShah/guessing-game-with-Zuhiimz"
                 target="_blank"
                 rel="noopener noreferrer"
               >
