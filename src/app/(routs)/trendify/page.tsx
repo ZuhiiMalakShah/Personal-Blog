@@ -72,10 +72,10 @@ export default function Trendify() {
 
                         <div className="flex justify-center space-x-8 bg-[#FFB200] p-3 rounded-lg shadow-lg">
                         <p className="text-2xl font-bold text-black">Check :</p> 
-                            <Link href="https://trendify-temp.vercel.app/" target="_blank" rel="noopener noreferrer">
+                            <Link href="" target="_blank" rel="noopener noreferrer">
                                 <SiVercel className="text-black text-3xl hover:text-gray-600 bg-gray-100 p-2 rounded-md transition-colors duration-300" />
                             </Link>
-                            <Link href="https://github.com/SikandarTahir23/trendify-template" target="_blank" rel="noopener noreferrer">
+                            <Link href="" target="_blank" rel="noopener noreferrer">
                                 <FaGithub className="text-black text-3xl hover:text-gray-600 bg-gray-100 p-2 rounded-md transition-colors duration-300" />
                             </Link>
                         </div>
