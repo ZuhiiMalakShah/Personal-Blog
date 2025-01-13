@@ -87,14 +87,14 @@ export default function Covido() {
             <div className="flex justify-center space-x-8 bg-[#FFB200] p-3 rounded-lg shadow-lg">
               <p className="text-2xl font-bold text-black">Check :</p>
               <Link
-                href="https://smit-hackathon-omega.vercel.app/"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <SiVercel className="text-black text-3xl hover:text-gray-800 bg-white p-2 rounded-md transition-transform duration-300 hover:scale-110" />
               </Link>
               <Link
-                href="https://github.com/SikandarTahir23/SMIT-Hackathon"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
               >
