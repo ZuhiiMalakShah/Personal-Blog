@@ -76,7 +76,7 @@ export default function Calculator() {
 
             <div className="flex justify-center space-x-8 bg-[#FFB200] p-3 rounded-lg shadow-lg">
               <p className="text-2xl font-bold text-black">Check :</p>
-              <Link href="https://github.com/SikandarTahir23/Simple-Calculator" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/ZuhiiMalakShah/simple_calculatorr" target="_blank" rel="noopener noreferrer">
                 <FaGithub className="text-black bg-gray-100 text-3xl hover:text-gray-400 transition-colors duration-300" />
               </Link>
             </div>
